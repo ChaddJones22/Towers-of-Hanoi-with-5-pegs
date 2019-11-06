@@ -1,4 +1,5 @@
 # Towers-of-Hanoi-with-5-pegs
+C++
 The Disk may move to any peg at anytime.
 
 This program was a class project.  There are 5 pegs.  Start, Aux1, Aux2, Aux3, and Dest. 
